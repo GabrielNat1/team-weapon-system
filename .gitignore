@@ -1,0 +1,27 @@
+# Ignore Roblox Studio files
+*.rbxl
+*.rbxlx
+*.rbxm
+
+# Ignore cache folder
+.cache/
+
+# Ignore log files
+*.log
+
+# Ignore automatic backup folders from Roblox Studio
+backup/
+
+# Ignore temporary files created by Roblox Studio
+*.swp
+*.swo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files (e.g., Visual Studio Code)
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
