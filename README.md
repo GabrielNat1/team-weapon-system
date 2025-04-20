@@ -1,4 +1,4 @@
-# Mini Frella for Roblox Game
+# Team Weapon Giver System
 
 This repository contains the code for a **mini frella system** used in a Roblox game. The system is responsible for distributing weapons to players based on their platform (mobile or PC).
 
